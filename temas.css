@@ -2,10 +2,10 @@
 
     width: 100%;
     height: 1200px;
-    background-color: aqua;
+    background-color: rgb(9, 233, 233);
     display: flex;
     flex-direction: column;
-
+    text-align: center;
 
 }
 
@@ -14,10 +14,10 @@
     width: 100%;
     height: 200px;
     background-color: blueviolet;
-
+    font-size: 35px;
 
 }
-.sociales{
+.biologia{
 
     width: 100%;
     height: 400px;
@@ -39,7 +39,14 @@
 
 
 }
+.quimica{
 
+    width: 100%;
+    height: 400px;
+    background-color: rgb(243, 243, 7);
+
+
+}
 
 
 
