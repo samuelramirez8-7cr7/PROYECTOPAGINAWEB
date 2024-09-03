@@ -1,0 +1,81 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 40px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(9, 8, 8);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondos.jpg");
+   
+
+}
+.titulo{
+font-size: 60px;
+color: rgb(244, 238, 238);
+text-align:center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.img1{
+    height: 193px;
+    width: 300px;
+    background-image: url("piedra.jpeg");
+    background-repeat: no-repeat;
+    float: right;
+}
+.img2{
+    height: 500px;
+    width: 500px;
+    background-image: url("medellin.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.imagen3{
+    height: 400px;
+    width: 400px;
+    background-image: url("imagen3.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
+
+.imagen4{ 
+    height: 780px;
+    width: 380px;
+    background-image: url("imagen4.gif");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+.ima5jpg{
+
+height: 300px;
+width: 500px ;
+background-image:url(ima5jpg.jpg) ;
+background-repeat: no-repeat;
+float:right ;
+
+
+}
+
+
+
+
+
+
+
+
+
+
