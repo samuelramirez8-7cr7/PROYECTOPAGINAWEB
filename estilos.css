@@ -65,15 +65,59 @@ height: 300px;
 width: 500px ;
 background-image:url(ima5jpg.jpg) ;
 background-repeat: no-repeat;
-float:right ;
+float:right 
+
+}
+
+
+.imgt3{
+
+height: 500px;
+width: 700px;
+background-image:url(imgt3.jpg);
 
 
 }
 
 
+.imgM3{
+
+height: 500px;
+width: 1130px;
+background-image:url(imgM3.jpg) ;
+
+
+}
+
+
+.imgM2{
+
+height: 400px;
+width: 540px;
+background-image: url(imgM2.jpg);
+
+
+}
+
+
+.imgb2{
+
+height: 600px;
+width: 800px;
+background-image: url(imgb2.jpg);
+
+}
 
 
 
+.imgq3{
+
+height: 130px;
+width: 300px ;
+background-image: url(imgq3.jpg);
+
+
+}
 
 
 
