@@ -130,3 +130,52 @@ background-image: url(imgb3.jpg);
 }
 
 
+.imgin1{
+
+height: 240px;
+width: 400px;
+background-image: url(imgin1.jpg);
+
+}
+
+
+.imgin2{
+
+height: 350px;
+width: 600px;
+background-image: url(imgin2.jfif);
+
+}
+
+
+.imgin3{
+
+height: 300px;
+width: 320px;
+background-image: url(imgin3.jpg);
+
+}
+
+
+.imgin5{
+
+height: 500px;
+width: 500px;
+background-image: url(imgin5.png);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
